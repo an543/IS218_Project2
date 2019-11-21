@@ -9,7 +9,6 @@ $questionSkills = $_POST['questionSkills'];
 echo "<!doctype html><html lang='en-US'>";
 echo "<head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>Validation</title>";
 echo "<link href='main.css' type='text/css' rel='stylesheet'></head>";
-echo "<link rel="shortcut icon" href="Butterfly.JPG" type="image/x-icon">";
 echo "<body><div class='formContainer'><div class='formBox'>";
 
 $goodName = checkQuestionName($questionName);

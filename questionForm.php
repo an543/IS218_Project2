@@ -8,7 +8,6 @@ echo "<head><meta charset='utf-8'><meta name='viewport' content='width=device-wi
 
 echo "<link href='main.css' type='text/css' rel='stylesheet'></head>";
 
-echo "<link rel="shortcut icon" href="Butterfly.JPG" type="image/x-icon">";
 
 echo "<body><div class='formContainer'><div class='formBox'><form action='newQuestion.php' method='post'>";
 
